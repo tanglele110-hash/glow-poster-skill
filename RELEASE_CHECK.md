@@ -35,4 +35,8 @@
 - 参考图的原始材料发布权由提供者确认；版权审查为公开来源及包内容检查，不是对所有下游使用的法律保证。
 - 新诗句、新字体、新参考图或许可证更新需要重新核对来源；本次字体在线比对不代表所有目录引用网页均在该日重新抓取。
 
+## README 展示更新 / Gallery update
+
+2026-09-25：按提供者明确要求新增四张已完成的署名海报，位于 `docs/examples/`，用于 README 的两行两列展示。原始文件直接复制，未重新生成或改变图像；示例不作为 Skill 的默认组合或默认姓名。首次发布的“未收入个人署名成图”记录仅适用于初始提交，本次展示范围已获得单独授权。
+
 Code and font checks are evidence for this package, not a claim that every generated poster or downstream use is automatically correct or rights-cleared.

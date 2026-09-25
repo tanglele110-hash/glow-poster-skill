@@ -4,9 +4,20 @@
 
 An agent Skill for Mid-Autumn greeting posters: translucent window shadows, traditional Chinese typography, independent random combinations, optional zodiac subjects and a personal signature.
 
-<img src="glow-poster/assets/layout-reference.png" alt="中秋光影海报竖排示例：龙与桂枝" width="420">
+## 海报示例
 
-*AI 生成的版式示例；字体外观为模型近似，不表示精确加载了字体文件。*
+<table>
+  <tr>
+    <td align="center"><img src="docs/examples/dragon-signed.png" alt="龙：雾青蓝、海棠四瓣窗，右下署名樂樂遙祝" width="360"><br>龙 · 雾青蓝 · 海棠四瓣窗</td>
+    <td align="center"><img src="docs/examples/rabbit-green-signed.png" alt="兔：青绿、海棠四瓣窗，右下署名樂樂遙祝" width="360"><br>兔 · 青绿 · 海棠四瓣窗</td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/examples/rabbit-apricot-signed.png" alt="兔：杏黄、折扇窗，右下署名樂樂遙祝" width="360"><br>兔 · 杏黄 · 折扇窗</td>
+    <td align="center"><img src="docs/examples/rat-signed.png" alt="鼠：湖蓝、折扇窗，右下署名樂樂遙祝" width="360"><br>鼠 · 湖蓝 · 折扇窗</td>
+  </tr>
+</table>
+
+*四张均为 AI 生成的繁体竖排成图，展示不同组合及「樂樂遙祝」署名。示例名称不是默认署名；字体外观为模型近似，不表示精确加载了字体文件。*
 
 ## 如何使用
 
@@ -94,7 +105,7 @@ python glow-poster/scripts/verify.py --out-dir ../glow-poster-verification
 
 ## 授权与来源
 
-项目代码与原创说明采用 [MIT](LICENSE)。三套字体分别保留 **SIL OFL 1.1**，不由 MIT 替代；不包含系统楷体、原始参考截图、个人署名成图、运行日志或认证文件。
+项目代码与原创说明采用 [MIT](LICENSE)。三套字体分别保留 **SIL OFL 1.1**，不由 MIT 替代；不包含系统楷体、原始参考截图、运行日志或认证文件。`docs/examples/` 中的四张署名成图经提供者明确同意公开展示，署名仅属于这些示例。
 
 古典诗句只收录原文摘句和出处，不包含现代译文或赏析。参考图为 AI 生成，原始参考材料的发布权已由提供者确认；不承诺 AI 输出在所有法域均具有排他版权，也不保证任何下游用途自动无侵权风险。
 

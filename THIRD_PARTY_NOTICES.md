@@ -37,6 +37,11 @@ The two reference PNGs are AI-generated examples, included with contributor-conf
 
 AI 输出的可版权性及具体使用是否侵权取决于法域和事实，不能从生成工具名称推导“全球无版权风险”。例如，美国版权局的 [2025 年 AI 可版权性报告](https://www.copyright.gov/ai/Copyright-and-Artificial-Intelligence-Part-2-Copyrightability-Report.pdf) 区分人类创作贡献与纯 AI 生成内容。本项目不作排他性或绝对无侵权保证。
 
+## README 展示图 / README gallery
+
+`docs/examples/` 收录经提供者明确同意公开展示的四张 AI 署名海报：龙、青绿兔、杏黄兔和鼠。它们沿用上述 AI 图像的许可范围与权利边界；「樂樂遙祝」是示例内的署名，不是 Skill 的默认输入，也不表示对使用者或衍生作品的背书。
+The four signed AI-generated gallery posters are published with the contributor's explicit permission and follow the image permission scope above. Their signature is example content, not a default input or an endorsement of downstream works.
+
 ## 运行依赖 / Runtime dependencies
 
 Pillow、NumPy、fontTools 由使用者另行安装，本仓库不再分发这些依赖的二进制。依赖各自的许可证随上游发行版适用。
