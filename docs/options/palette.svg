@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="580" viewBox="0 0 1200 580" role="img" aria-label="六种配色 · 自由组合">
+<title>六种配色 · 自由组合</title>
+<style>text{font-family:"Microsoft YaHei","Noto Sans CJK SC",sans-serif;fill:#293F3C}.sub{fill:#61736E}</style>
+<rect width="1200" height="580" rx="20" fill="#F7F5EF"/>
+<text x="40" y="56" font-size="28">六种配色 · 自由组合</text>
+<text x="40" y="92" font-size="17" class="sub">固定数字基色 / HEX · RGB</text>
+<g id="c01">
+<rect x="40" y="126" width="344" height="108" rx="8" fill="#6BB392"/>
+<text x="40" y="269" font-size="23">C01 · 青绿</text>
+<text x="40" y="301" font-size="18" class="sub">#6BB392   /   RGB 107 · 179 · 146</text>
+</g>
+<g id="c02">
+<rect x="428" y="126" width="344" height="108" rx="8" fill="#5CB3CC"/>
+<text x="428" y="269" font-size="23">C02 · 湖蓝</text>
+<text x="428" y="301" font-size="18" class="sub">#5CB3CC   /   RGB 92 · 179 · 204</text>
+</g>
+<g id="c03">
+<rect x="816" y="126" width="344" height="108" rx="8" fill="#A9BD70"/>
+<text x="816" y="269" font-size="23">C03 · 黄绿</text>
+<text x="816" y="301" font-size="18" class="sub">#A9BD70   /   RGB 169 · 189 · 112</text>
+</g>
+<g id="c04">
+<rect x="40" y="337" width="344" height="108" rx="8" fill="#E5A84B"/>
+<text x="40" y="480" font-size="23">C04 · 杏黄</text>
+<text x="40" y="512" font-size="18" class="sub">#E5A84B   /   RGB 229 · 168 · 75</text>
+</g>
+<g id="c05">
+<rect x="428" y="337" width="344" height="108" rx="8" fill="#D4D3CA"/>
+<text x="428" y="480" font-size="23">C05 · 暖灰</text>
+<text x="428" y="512" font-size="18" class="sub">#D4D3CA   /   RGB 212 · 211 · 202</text>
+</g>
+<g id="c06">
+<rect x="816" y="337" width="344" height="108" rx="8" fill="#7BB3AE"/>
+<text x="816" y="480" font-size="23">C06 · 雾青蓝</text>
+<text x="816" y="512" font-size="18" class="sub">#7BB3AE   /   RGB 123 · 179 · 174</text>
+</g>
+</svg>

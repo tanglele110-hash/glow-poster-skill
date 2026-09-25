@@ -50,6 +50,16 @@ An agent Skill for Mid-Autumn greeting posters: translucent window shadows, trad
 
 详细清单见 [catalog.md](glow-poster/references/catalog.md)。经典模式有 4,800 个参数组合，每个生肖也有 4,800 个；这是参数空间，不是已生成或逐张验收的图片数量。色名为设计描述，不是唯一历史色标。
 
+### 六种配色
+
+![六种配色及对应 HEX、RGB 色号](docs/options/palette.svg)
+
+### 五种花窗
+
+![满月圆窗、海棠四瓣窗、梅花五瓣窗、六角窗和折扇窗](docs/options/windows.svg)
+
+颜色与窗形可任意搭配，也可只指定其中一项，其余独立随机。
+
 ## 安装与命令行
 
 需要 Python 3.10 或更新版本。`plan.py` 仅使用标准库；本地横排排字与验证器另需 Pillow、NumPy、fontTools。建议在仓库外建立虚拟环境。
@@ -105,7 +115,7 @@ python glow-poster/scripts/verify.py --out-dir ../glow-poster-verification
 
 ## 授权与来源
 
-项目代码与原创说明采用 [MIT](LICENSE)。三套字体分别保留 **SIL OFL 1.1**，不由 MIT 替代；不包含系统楷体、原始参考截图、运行日志或认证文件。`docs/examples/` 中的四张署名成图经提供者明确同意公开展示，署名仅属于这些示例。
+项目代码与原创说明采用 [MIT](LICENSE)。三套字体分别保留 **SIL OFL 1.1**，不由 MIT 替代。`docs/examples/` 中的四张署名成图经提供者明确同意公开展示，署名仅属于这些示例。
 
 古典诗句只收录原文摘句和出处，不包含现代译文或赏析。参考图为 AI 生成，原始参考材料的发布权已由提供者确认；不承诺 AI 输出在所有法域均具有排他版权，也不保证任何下游用途自动无侵权风险。
 
