@@ -1,0 +1,759 @@
+{
+  "version": 7,
+  "verified_on": "2026-09-25",
+  "color_note": "配色以本目录的 HEX / RGB 为准；色名为描述性标签。poster_hex 与 hex 一致，不自动加深或替换。",
+  "canvas": [
+    1376,
+    1824
+  ],
+  "strict_3_4_canvas": [
+    1440,
+    1920
+  ],
+  "poems": [
+    {
+      "id": "p01",
+      "lines": [
+        "但願人長久，",
+        "千里共嬋娟。"
+      ],
+      "text": "但願人長久，千里共嬋娟。",
+      "author": "蘇軾",
+      "work": "水調歌頭·明月幾時有",
+      "dynasty": "宋",
+      "source_url": "https://www.gushiwen.cn/shiwenv_632c5beb84eb.aspx",
+      "mood": "祝願",
+      "recommended_motifs": [
+        "m01",
+        "m02",
+        "m05"
+      ],
+      "note": "",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 宋 · 蘇軾《水調歌頭·明月幾時有》"
+    },
+    {
+      "id": "p02",
+      "lines": [
+        "海上生明月，",
+        "天涯共此時。"
+      ],
+      "text": "海上生明月，天涯共此時。",
+      "author": "張九齡",
+      "work": "望月懷遠",
+      "dynasty": "唐",
+      "source_url": "https://cd.edb.gov.hk/chi/resource/ncs/download/js_list/JS_wangyuehuaiyuan.pdf",
+      "mood": "懷遠",
+      "recommended_motifs": [
+        "m03",
+        "m08"
+      ],
+      "note": "望月懷人之作，非專詠中秋。",
+      "specifically_mid_autumn": false,
+      "attribution": "—— 唐 · 張九齡《望月懷遠》"
+    },
+    {
+      "id": "p03",
+      "lines": [
+        "芳尊美酒，年年歲歲，",
+        "月滿高樓。"
+      ],
+      "text": "芳尊美酒，年年歲歲，月滿高樓。",
+      "author": "趙鼎",
+      "work": "人月圓·中秋",
+      "dynasty": "宋",
+      "source_url": "https://fanti.dugushici.com/ancient_proses/52408",
+      "mood": "團聚",
+      "recommended_motifs": [
+        "m06",
+        "m04"
+      ],
+      "note": "",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 宋 · 趙鼎《人月圓·中秋》"
+    },
+    {
+      "id": "p04",
+      "lines": [
+        "唯願當歌對酒時，",
+        "月光長照金樽裏。"
+      ],
+      "text": "唯願當歌對酒時，月光長照金樽裏。",
+      "author": "李白",
+      "work": "把酒問月",
+      "dynasty": "唐",
+      "source_url": "https://zh.wikisource.org/zh-hant/把酒問月",
+      "mood": "暢飲",
+      "recommended_motifs": [
+        "m06",
+        "m08"
+      ],
+      "note": "詠月詩；採用「唯願」「裏」版本，非專詠中秋。",
+      "specifically_mid_autumn": false,
+      "attribution": "—— 唐 · 李白《把酒問月》"
+    },
+    {
+      "id": "p05",
+      "lines": [
+        "萬里無雲鏡九州，",
+        "最團圓夜是中秋。"
+      ],
+      "text": "萬里無雲鏡九州，最團圓夜是中秋。",
+      "author": "殷文圭",
+      "work": "八月十五夜",
+      "dynasty": "唐",
+      "source_url": "https://ctext.org/quantangshi/707/zhs",
+      "mood": "團圓",
+      "recommended_motifs": [
+        "m03",
+        "m05",
+        "m07"
+      ],
+      "note": "作者生涯跨唐末五代，海報沿用唐代署名。",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 唐 · 殷文圭《八月十五夜》"
+    },
+    {
+      "id": "p06",
+      "lines": [
+        "吾心自有光明月，",
+        "千古團圓永無缺。"
+      ],
+      "text": "吾心自有光明月，千古團圓永無缺。",
+      "author": "王守仁",
+      "work": "中秋",
+      "dynasty": "明",
+      "source_url": "https://m.gushiwen.cn/mingju/juv_a0d146cef87e.aspx",
+      "mood": "曠達",
+      "recommended_motifs": [
+        "m08",
+        "m03"
+      ],
+      "note": "",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 明 · 王守仁《中秋》"
+    },
+    {
+      "id": "p07",
+      "lines": [
+        "好時節，願得年年，",
+        "常見中秋月。"
+      ],
+      "text": "好時節，願得年年，常見中秋月。",
+      "author": "徐有貞",
+      "work": "中秋月·中秋月",
+      "dynasty": "明",
+      "source_url": "https://fanti.dugushici.com/mingju/13767",
+      "mood": "祝願",
+      "recommended_motifs": [
+        "m01",
+        "m04",
+        "m07"
+      ],
+      "note": "",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 明 · 徐有貞《中秋月·中秋月》"
+    },
+    {
+      "id": "p08",
+      "lines": [
+        "無雲世界秋三五，",
+        "共看蟾盤上海涯。"
+      ],
+      "text": "無雲世界秋三五，共看蟾盤上海涯。",
+      "author": "曹松",
+      "work": "中秋對月",
+      "dynasty": "唐",
+      "source_url": "https://m.gushiwen.cn/mingju/juv_0066343f3802.aspx",
+      "mood": "共賞",
+      "recommended_motifs": [
+        "m03",
+        "m05"
+      ],
+      "note": "「上海涯」連讀為月輪升上海天邊際，不指上海市。",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 唐 · 曹松《中秋對月》"
+    },
+    {
+      "id": "p09",
+      "lines": [
+        "今夜月明人盡望，",
+        "不知秋思落誰家。"
+      ],
+      "text": "今夜月明人盡望，不知秋思落誰家。",
+      "author": "王建",
+      "work": "十五夜望月寄杜郎中",
+      "dynasty": "唐",
+      "source_url": "https://www.zksjjjc.gov.cn/sitesources/zksjjjcw/page_pc/lzjy/lzwh/articleea428d0d6e1b4538ab4bff1802dc95c3.html",
+      "mood": "思鄉",
+      "recommended_motifs": [
+        "m05",
+        "m08"
+      ],
+      "note": "帶思鄉意味，適合寄遠；純歡慶批次可另選。",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 唐 · 王建《十五夜望月寄杜郎中》"
+    },
+    {
+      "id": "p10",
+      "lines": [
+        "明月松間照，",
+        "清泉石上流。"
+      ],
+      "text": "明月松間照，清泉石上流。",
+      "author": "王維",
+      "work": "山居秋暝",
+      "dynasty": "唐",
+      "source_url": "https://www.edb.gov.hk/attachment/tc/curriculum-development/kla/chi-edu/recommended-passages/ks4_16a_text.pdf",
+      "mood": "清寂",
+      "recommended_motifs": [
+        "m08"
+      ],
+      "note": "秋夜山居之作，非專詠中秋；八組意象中以詩卷月光作氣氛搭配，不擅自把桂樹改成松樹。",
+      "specifically_mid_autumn": false,
+      "attribution": "—— 唐 · 王維《山居秋暝》"
+    },
+    {
+      "id": "p11",
+      "lines": [
+        "至今不會天中事，",
+        "應是嫦娥擲與人。"
+      ],
+      "text": "至今不會天中事，應是嫦娥擲與人。",
+      "author": "皮日休",
+      "work": "天竺寺八月十五日夜桂子",
+      "dynasty": "唐",
+      "source_url": "https://www.gushiwen.cn/gushiwen_a46ffd481a.aspx",
+      "mood": "神話",
+      "recommended_motifs": [
+        "m02",
+        "m01",
+        "m06"
+      ],
+      "note": "",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 唐 · 皮日休《天竺寺八月十五日夜桂子》"
+    },
+    {
+      "id": "p12",
+      "lines": [
+        "暮雲收盡溢清寒，",
+        "銀漢無聲轉玉盤。"
+      ],
+      "text": "暮雲收盡溢清寒，銀漢無聲轉玉盤。",
+      "author": "蘇軾",
+      "work": "陽關曲·中秋月",
+      "dynasty": "宋",
+      "source_url": "https://www.gushiwen.cn/mingju/juv_7a538e6e203e.aspx",
+      "mood": "清朗",
+      "recommended_motifs": [
+        "m03",
+        "m08"
+      ],
+      "note": "",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 宋 · 蘇軾《陽關曲·中秋月》"
+    },
+    {
+      "id": "p13",
+      "lines": [
+        "天將今夜月，",
+        "一遍洗寰瀛。"
+      ],
+      "text": "天將今夜月，一遍洗寰瀛。",
+      "author": "劉禹錫",
+      "work": "八月十五夜玩月",
+      "dynasty": "唐",
+      "source_url": "https://www.gushiwen.cn/GuShiWen.aspx?id=d40f48b8fb",
+      "mood": "清朗",
+      "recommended_motifs": [
+        "m03",
+        "m08"
+      ],
+      "note": "題名亦作《八月十五日夜玩月》。",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 唐 · 劉禹錫《八月十五夜玩月》"
+    },
+    {
+      "id": "p14",
+      "lines": [
+        "皓魄當空寶鏡升，",
+        "雲間仙籟寂無聲。"
+      ],
+      "text": "皓魄當空寶鏡升，雲間仙籟寂無聲。",
+      "author": "李朴",
+      "work": "中秋",
+      "dynasty": "宋",
+      "source_url": "https://www.gushiwen.cn/shiwenv_01d78d6c02a4.aspx",
+      "mood": "靜謐",
+      "recommended_motifs": [
+        "m02",
+        "m03"
+      ],
+      "note": "採「寶鏡」版本；另有「曉鏡」異文，不拼接版本。",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 宋 · 李朴《中秋》"
+    },
+    {
+      "id": "p15",
+      "lines": [
+        "此夜若無月，",
+        "一年虛過秋。"
+      ],
+      "text": "此夜若無月，一年虛過秋。",
+      "author": "司空圖",
+      "work": "中秋",
+      "dynasty": "唐",
+      "source_url": "https://m.gushiwen.cn/mingju/juv_6e902a52015d.aspx",
+      "mood": "惜時",
+      "recommended_motifs": [
+        "m05",
+        "m08"
+      ],
+      "note": "",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 唐 · 司空圖《中秋》"
+    },
+    {
+      "id": "p16",
+      "lines": [
+        "一輪秋影轉金波，",
+        "飛鏡又重磨。"
+      ],
+      "text": "一輪秋影轉金波，飛鏡又重磨。",
+      "author": "辛棄疾",
+      "work": "太常引·建康中秋夜為呂叔潛賦",
+      "dynasty": "宋",
+      "source_url": "https://www.gushiwen.cn/mingju/juv_48f0575331d6.aspx",
+      "mood": "壯闊",
+      "recommended_motifs": [
+        "m03",
+        "m02"
+      ],
+      "note": "",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 宋 · 辛棄疾《太常引·建康中秋夜為呂叔潛賦》"
+    },
+    {
+      "id": "p17",
+      "lines": [
+        "小餅如嚼月，",
+        "中有酥與飴。"
+      ],
+      "text": "小餅如嚼月，中有酥與飴。",
+      "author": "蘇軾",
+      "work": "留別廉守",
+      "dynasty": "宋",
+      "source_url": "https://zh.wikisource.org/zh-hant/留別廉守",
+      "mood": "食趣",
+      "recommended_motifs": [
+        "m04",
+        "m07"
+      ],
+      "note": "以餅喻月，可借作中秋食趣文案；原作非中秋專詩，不據此聲稱它記載了現代月餅。",
+      "specifically_mid_autumn": false,
+      "attribution": "—— 宋 · 蘇軾《留別廉守》"
+    },
+    {
+      "id": "p18",
+      "lines": [
+        "人道秋中明月好，",
+        "欲邀同賞意如何。"
+      ],
+      "text": "人道秋中明月好，欲邀同賞意如何。",
+      "author": "白居易",
+      "work": "華陽觀中八月十五日夜招友玩月",
+      "dynasty": "唐",
+      "source_url": "https://zh.wikisource.org/zh-hant/華陽觀中八月十五日夜招友玩月",
+      "mood": "邀友",
+      "recommended_motifs": [
+        "m04",
+        "m06",
+        "m07"
+      ],
+      "note": "依《全唐詩》卷436採「意如何」，不採二手轉引的「意何如」。",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 唐 · 白居易《華陽觀中八月十五日夜招友玩月》"
+    },
+    {
+      "id": "p19",
+      "lines": [
+        "目窮淮海滿如銀，",
+        "萬道虹光育蚌珍。"
+      ],
+      "text": "目窮淮海滿如銀，萬道虹光育蚌珍。",
+      "author": "米芾",
+      "work": "中秋登樓望月",
+      "dynasty": "宋",
+      "source_url": "https://m.guwendao.net/mingju/juv_f34170ee38b1.aspx",
+      "mood": "清輝",
+      "recommended_motifs": [
+        "m03",
+        "m08"
+      ],
+      "note": "",
+      "specifically_mid_autumn": true,
+      "attribution": "—— 宋 · 米芾《中秋登樓望月》"
+    },
+    {
+      "id": "p20",
+      "lines": [
+        "湖光秋月兩相和，",
+        "潭面無風鏡未磨。"
+      ],
+      "text": "湖光秋月兩相和，潭面無風鏡未磨。",
+      "author": "劉禹錫",
+      "work": "望洞庭",
+      "dynasty": "唐",
+      "source_url": "https://www.gushiwen.cn/mingju/juv.aspx?id=e89ed9b0ecfc",
+      "mood": "澄靜",
+      "recommended_motifs": [
+        "m08"
+      ],
+      "note": "秋夜寫景之作，非專詠中秋。",
+      "specifically_mid_autumn": false,
+      "attribution": "—— 唐 · 劉禹錫《望洞庭》"
+    }
+  ],
+  "colors": [
+    {
+      "id": "c01",
+      "name": "青绿",
+      "hex": "#6BB392",
+      "rgb": [
+        107,
+        179,
+        146
+      ],
+      "poster_hex": "#6BB392",
+      "prompt": "soft jade green",
+      "note": "色名为色相描述，不作为历史色名认定。",
+      "derivation": "固定数字基色，不进行自动明度或色相转换。",
+      "light_hex": "#FFF0BD"
+    },
+    {
+      "id": "c02",
+      "name": "湖蓝",
+      "hex": "#5CB3CC",
+      "rgb": [
+        92,
+        179,
+        204
+      ],
+      "poster_hex": "#5CB3CC",
+      "prompt": "clear lake blue",
+      "note": "色名为色相描述，不作为历史色名认定。",
+      "derivation": "固定数字基色，不进行自动明度或色相转换。",
+      "light_hex": "#FFF0BD"
+    },
+    {
+      "id": "c03",
+      "name": "黄绿",
+      "hex": "#A9BD70",
+      "rgb": [
+        169,
+        189,
+        112
+      ],
+      "poster_hex": "#A9BD70",
+      "prompt": "muted yellow green",
+      "note": "色名为色相描述，不作为历史色名认定。",
+      "derivation": "固定数字基色，不进行自动明度或色相转换。",
+      "light_hex": "#FFF0BD"
+    },
+    {
+      "id": "c04",
+      "name": "杏黄",
+      "hex": "#E5A84B",
+      "rgb": [
+        229,
+        168,
+        75
+      ],
+      "poster_hex": "#E5A84B",
+      "prompt": "warm apricot yellow",
+      "note": "色名为色相描述，不作为历史色名认定。",
+      "derivation": "固定数字基色，不进行自动明度或色相转换。",
+      "light_hex": "#FFF0BD"
+    },
+    {
+      "id": "c05",
+      "name": "暖灰",
+      "hex": "#D4D3CA",
+      "rgb": [
+        212,
+        211,
+        202
+      ],
+      "poster_hex": "#D4D3CA",
+      "prompt": "pale warm gray",
+      "note": "色名为色相描述，不作为历史色名认定。",
+      "derivation": "固定数字基色，不进行自动明度或色相转换。",
+      "light_hex": "#FFF0BD"
+    },
+    {
+      "id": "c06",
+      "name": "雾青蓝",
+      "hex": "#7BB3AE",
+      "rgb": [
+        123,
+        179,
+        174
+      ],
+      "poster_hex": "#7BB3AE",
+      "prompt": "muted misty teal blue, a softly desaturated blue-green paper field",
+      "note": "色名为色相描述，不作为历史色名认定。",
+      "derivation": "固定数字基色，不进行自动明度或色相转换。",
+      "light_hex": "#FFF0BD"
+    }
+  ],
+  "windows": [
+    {
+      "id": "w01",
+      "name": "满月圆窗",
+      "prompt": "one circular moon-window aperture, a nearly round luminous disc with softly feathered edges",
+      "source_url": "https://ylj.suzhou.gov.cn/szsylj/ylys/201903/484421d38f504f5787a8f307925e3ad7.shtml",
+      "note": "圓形輪廓，團圓感最直接。"
+    },
+    {
+      "id": "w02",
+      "name": "海棠四瓣窗",
+      "prompt": "one traditional Chinese haitang quatrefoil window aperture: four broad rounded lobes, softly indented between lobes, wider than tall, not a flower illustration",
+      "source_url": "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0G245370142854587163",
+      "note": "四瓣飽滿，柔和的花窗輪廓。"
+    },
+    {
+      "id": "w03",
+      "name": "梅花五瓣窗",
+      "prompt": "one five-lobed plum-blossom-shaped window aperture with exactly five softly rounded petals, clearly readable outer outline; no actual plum flowers",
+      "source_url": "https://wwj.beijing.gov.cn/bjww/resource/cms/article/bjww_362762/10845816/2020081209120642552.pdf",
+      "note": "以梅花形窗洞為輪廓，不在秋景中額外添梅枝。"
+    },
+    {
+      "id": "w04",
+      "name": "六角窗",
+      "prompt": "one regular hexagonal garden-window aperture with six sides, softened corners and blurred luminous edges, upright and symmetrical",
+      "source_url": "https://ylj.suzhou.gov.cn/szsylj/ylys/201903/484421d38f504f5787a8f307925e3ad7.shtml",
+      "note": "六邊輪廓，較端正；不畫成龜背格柵。"
+    },
+    {
+      "id": "w05",
+      "name": "折扇窗",
+      "prompt": "one broad Chinese folding-fan-shaped window aperture: gently arched upper edge and curved lower edge with two slanting sides, wider than tall, no fan handle and no spokes",
+      "source_url": "https://www.linfamily.ntpc.gov.tw/xmdoc/cont?xsmsid=0G245370142854587163",
+      "note": "扇面形輪廓，以園林扇形空窗作設計參照。"
+    }
+  ],
+  "motifs": [
+    {
+      "id": "m01",
+      "name": "玉兔・桂枝",
+      "prompt": "a small seated jade rabbit in side profile at the lower center, and one diagonal osmanthus branch with delicate clusters of tiny blossoms",
+      "note": "兔小、桂枝疏，保留窗內透光空間。"
+    },
+    {
+      "id": "m02",
+      "name": "嫦娥・桂树",
+      "prompt": "one slender Chang'e figure in flowing robes, shown only as a distant soft projected shadow without facial detail, beside a sparse osmanthus tree; a single graceful trailing sleeve",
+      "note": "人物只作遠影，不生成臉部肖像或完整神話場景。"
+    },
+    {
+      "id": "m03",
+      "name": "蟾蜍・月轮",
+      "prompt": "one small crouching lunar toad shadow at the lower edge and one faint circular moon halo within the aperture, distinct from the outer window shape",
+      "note": "月宮蟾蜍，無金幣、聚寶盆或招財擺件。"
+    },
+    {
+      "id": "m04",
+      "name": "月饼・茶盏",
+      "prompt": "a softly scalloped round mooncake seen slightly from the side beside one small tea cup; their soft projected profiles rest on one low horizontal plane",
+      "note": "可辨糕餅輪廓與杯口；不用食物攝影、商標或雕花特寫。"
+    },
+    {
+      "id": "m05",
+      "name": "灯笼・桂影",
+      "prompt": "one hanging traditional rounded paper lantern with a short tassel, crossed by a sparse osmanthus branch shadow; the lantern itself is a projected shadow, not a second glowing light source",
+      "note": "燈籠作投影，桂影疏落，不與中央暖光爭亮。"
+    },
+    {
+      "id": "m06",
+      "name": "桂酒壶・桂花瓣",
+      "prompt": "one small traditional ceramic wine ewer with a slim spout and curved handle, with a few scattered osmanthus petals drifting beside it, all rendered as soft cast shadows",
+      "note": "保留壺嘴和提梁辨識度，不畫酒瓶標籤。"
+    },
+    {
+      "id": "m07",
+      "name": "莲瓣瓜・供盘",
+      "prompt": "melon slices arranged as a lotus blossom on a low offering plate; a simple lotus-petal silhouette made of fruit wedges, all as diffuse projected shadows",
+      "note": "作「瓜果切瓣、蓮花狀拼盤」的設計解讀，不畫成真蓮花或佛教供像。"
+    },
+    {
+      "id": "m08",
+      "name": "诗卷・月光",
+      "prompt": "one partly unrolled poetry scroll with gently curled ends, with one oblique pale moonlight band crossing it; the scroll is a soft projected shadow and carries no readable writing",
+      "note": "卷軸無可讀文字，詩句只在所選版式的文字區排入，避免與窗內主體混在一起。"
+    }
+  ],
+  "zodiacs": [
+    {
+      "id": "z01",
+      "name": "鼠",
+      "aliases": [
+        "rat",
+        "mouse"
+      ],
+      "prompt": "a small rat in side profile, rounded ears, pointed muzzle and a long gently curved thin tail",
+      "note": "圆耳、尖嘴、细长尾"
+    },
+    {
+      "id": "z02",
+      "name": "牛",
+      "aliases": [
+        "ox",
+        "cow"
+      ],
+      "prompt": "a calm sturdy ox in side profile, two curved horns, broad muzzle and four strong legs",
+      "note": "双角、宽鼻、稳健躯干"
+    },
+    {
+      "id": "z03",
+      "name": "虎",
+      "aliases": [
+        "tiger"
+      ],
+      "prompt": "a quiet walking tiger, rounded ears, broad feline head and a long curved tail; faint stripes only",
+      "note": "圆耳、宽额、长尾，虎纹淡化"
+    },
+    {
+      "id": "z04",
+      "name": "兔",
+      "aliases": [
+        "rabbit"
+      ],
+      "prompt": "a seated rabbit in profile, two long upright ears, compact body and short round tail",
+      "note": "长耳、团身、短尾"
+    },
+    {
+      "id": "z05",
+      "name": "龙",
+      "aliases": [
+        "龍",
+        "dragon"
+      ],
+      "prompt": "a graceful wingless Chinese dragon, long sinuous S-shaped body, antler-like horns, long whiskers and four small clawed limbs; no fire or Western dragon wings; soften all scales into translucent shadow",
+      "note": "中国龙：角、须、长身、四肢，无翼"
+    },
+    {
+      "id": "z06",
+      "name": "蛇",
+      "aliases": [
+        "snake"
+      ],
+      "prompt": "one elegant gently coiled snake with a lifted small head and continuous tapering body, no legs, no horns or dragon features",
+      "note": "盘曲长身、小头，无角无足"
+    },
+    {
+      "id": "z07",
+      "name": "马",
+      "aliases": [
+        "馬",
+        "horse"
+      ],
+      "prompt": "a graceful horse in side profile, long muzzle, flowing mane and tail, four slender legs",
+      "note": "长脸、鬃毛、马尾"
+    },
+    {
+      "id": "z08",
+      "name": "羊",
+      "aliases": [
+        "goat",
+        "sheep",
+        "ram"
+      ],
+      "prompt": "a gentle goat in side profile, two backward-curved horns, small beard and slim hooved legs",
+      "note": "后弯角、短须、细蹄"
+    },
+    {
+      "id": "z09",
+      "name": "猴",
+      "aliases": [
+        "monkey"
+      ],
+      "prompt": "a seated monkey in profile, round ears, small muzzle, bent long arms and curved long tail; no clothing",
+      "note": "圆耳、长臂、弯尾"
+    },
+    {
+      "id": "z10",
+      "name": "鸡",
+      "aliases": [
+        "雞",
+        "rooster",
+        "chicken"
+      ],
+      "prompt": "a rooster in side profile, distinct comb, short beak and arched long tail feathers, two legs",
+      "note": "鸡冠、短喙、弯翘尾羽"
+    },
+    {
+      "id": "z11",
+      "name": "狗",
+      "aliases": [
+        "dog"
+      ],
+      "prompt": "a relaxed dog in side profile, clear canine muzzle, pointed ears and gently curled tail; no wolf or fox features",
+      "note": "犬吻、竖耳、卷尾"
+    },
+    {
+      "id": "z12",
+      "name": "猪",
+      "aliases": [
+        "豬",
+        "pig",
+        "boar"
+      ],
+      "prompt": "a gentle pig in side profile, rounded body, short legs, broad round snout and small curled tail",
+      "note": "圆鼻、圆身、短足、卷尾"
+    }
+  ],
+  "accents": [
+    {
+      "id": "a01",
+      "name": "桂枝",
+      "prompt": "one sparse osmanthus branch with small leaves and tiny flower clusters"
+    },
+    {
+      "id": "a02",
+      "name": "桂树",
+      "prompt": "a small fragment of osmanthus tree canopy at the upper edge, not a full forest"
+    },
+    {
+      "id": "a03",
+      "name": "月轮",
+      "prompt": "one faint circular moon disc nested inside the aperture, not another window or a second bright light"
+    },
+    {
+      "id": "a04",
+      "name": "月饼・茶盏",
+      "prompt": "a small mooncake and one tea cup grouped at the lower side; keep them subordinate to the animal"
+    },
+    {
+      "id": "a05",
+      "name": "灯笼・桂影",
+      "prompt": "one small lantern outline and a faint sparse osmanthus sprig, both as cast shadows"
+    },
+    {
+      "id": "a06",
+      "name": "桂酒壶・桂花瓣",
+      "prompt": "one small wine ewer and a few osmanthus petals"
+    },
+    {
+      "id": "a07",
+      "name": "莲瓣瓜・供盘",
+      "prompt": "melon wedges arranged like lotus petals on one shallow serving plate; no literal lotus flower"
+    },
+    {
+      "id": "a08",
+      "name": "诗卷・月光",
+      "prompt": "one small open scroll without writing and a soft slant of moonlight"
+    }
+  ]
+}

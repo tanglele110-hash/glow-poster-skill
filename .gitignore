@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+auth.json
+credentials*.json
+*.log
+output/
+outputs/
+verification/
+artifacts/
+*.zip
